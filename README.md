@@ -1,2 +1,2 @@
 # Virtual-Piano
-My first project completed for both myself and Jetbrains Academy
+My first project completed for both myself and JetBrains Academy
