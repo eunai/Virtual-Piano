@@ -69,5 +69,5 @@ Project Link: [https://github.com/eunai/Virtual-Piano](https://github.com/eunai/
 [issues-shield]: https://img.shields.io/github/issues/eunai/virtual-piano.svg?style=flat-square
 [issues-url]: https://github.com/eunai/virtual-piano/issues
 [license-shield]: https://img.shields.io/github/license/eunai/virtual-piano.svg?style=flat-square
-[license-url]: https://github.com/eunai/virtual-piano/blob/master/LICENSE
+[license-url]: https://github.com/eunai/virtual-piano/blob/master/LICENSE.txt
 [product-screenshot]: https://puu.sh/Gqkia.png
